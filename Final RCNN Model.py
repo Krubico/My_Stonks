@@ -1,5 +1,4 @@
 # First, we need to install pycocotools. This library will be used for computing the evaluation metrics following the COCO metric for intersection over union.
-# The version by default in Colab has a bug fixed in https://github.com/cocodataset/cocoapi/pull/354
 #pip install cython
 #pip install -U 'git+https://github.com/cocodataset/cocoapi.git#subdirectory=PythonAPI'
 
